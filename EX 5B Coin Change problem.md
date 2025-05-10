@@ -16,7 +16,7 @@ Developed by: TEJASWINI G
 
 Register Number: 212222230157
 
-```
+```PYHTON
 class Solution(object):
     def coinChange(self, coins, amount):
         if amount == 0 :
